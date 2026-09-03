@@ -7,13 +7,12 @@
 ---
 
 ### 📌 About Me
-I'm a **Computer Engineering student** at **Instituto Federal do Maranhão (IFMA - Campus Santa Inês)**, currently in the 8th semester. Passionate about software development, database architecture, system monitoring, and AI applications.
+I'm a **Computer Engineering student** at **Instituto Federal do Maranhão (IFMA - Campus Santa Inês)**, currently in the 7th semester. Passionate about software development, database architecture, system monitoring, and AI applications.
 
 - 🎓 **Education:** Computer Engineering @ IFMA (2023 - 2027)
 - 🔭 **Current Focus:** Software Development, Database Management, and Infrastructure Support
-- 💡 **Academic Highlight:** Exhibitor at the 5th SNEPT (SETEC/MEC in Brasília/DF) presenting AI-based stock management research[cite: 1]
-- 🌱 **Tech Stack:** Java, Python, SQL, PostgreSQL, SQLite, Git & GitHub[cite: 1]
-- 📫 **How to reach me:** luanfonsecarocha7@gmail.com[cite: 1]
+- 💡 **Academic Highlight:** Exhibitor at the 5th SNEPT (SETEC/MEC in Brasília/DF) presenting AI-based stock management research
+- 📫 **How to reach me:** luanfonsecarocha7@gmail.com
 
 ---
 
@@ -25,28 +24,29 @@ I'm a **Computer Engineering student** at **Instituto Federal do Maranhão (IFMA
   <a href="mailto:luanfonsecarocha7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/IceGOT-10">
-    <img src="https://img.shields.io/github/followers/IceGOT-10?label=Followers&style=for-the-badge&color=0055ff" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,postgres,sqlite,git,github,vscode" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-- **SYSTRACK:** Real-time server monitoring system for performance tracking, fault identification, and infrastructure support[cite: 1].
-- **AI Inventory Management System:** Academic project applying Artificial Intelligence and programming for inventory control and decision-making in small businesses[cite: 1].
+
+| Project | Description | Tech & Scope |
+| :--- | :--- | :--- |
+| **SYSTRACK** | Real-time server monitoring system for tracking performance, detecting faults, and supporting IT infrastructure. | `System Monitoring` `Infrastructure` |
+| **AI Inventory Management** | Academic research applying Artificial Intelligence and programming for stock control and decision-making in small businesses. | `Python` `AI` `Data Analysis` |
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IceGOT-10&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceGOT-10&layout=compact&theme=dark" />
-</p>
+### 🛠️ Technical Stack & Skills
+
+- 💻 **Programming Languages:** Java, Python, SQL
+- 🗄️ **Databases & Modeling:** PostgreSQL, SQLite, Relational Modeling, SQL Queries
+- 🛠️ **Developer Tools:** Git, GitHub, VS Code
+- 🔧 **Hardware & Infrastructure:** PC Maintenance, Circuit Analysis, System Configuration & Support
+- 📊 **Office & Productivity:** Excel (Intermediate), Word, PowerPoint
+
+---
+
+### 💬 Languages
+- **Portuguese:** Native
+- **English:** Intermediate
