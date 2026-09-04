@@ -7,7 +7,7 @@
 ---
 
 ### 📌 About Me
-I'm a **Computer Engineering student** at **Instituto Federal do Maranhão (IFMA - Campus Santa Inês)**, currently in the 7th semester. Passionate about software development, database architecture, system monitoring, and AI applications.
+I'm a **Computer Engineering student** at **Instituto Federal do Maranhão (IFMA - Campus Santa Inês)**, currently in the 8th semester. Passionate about software development, database architecture, system monitoring, and AI applications.
 
 - 🎓 **Education:** Computer Engineering @ IFMA (2023 - 2027)
 - 🔭 **Current Focus:** Software Development, Database Management, and Infrastructure Support
