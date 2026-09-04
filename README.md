@@ -32,9 +32,9 @@ I'm a **Computer Engineering student** at **Instituto Federal do Maranhão (IFMA
 
 | Project | Description | Tech & Scope |
 | :--- | :--- | :--- |
-| **SYSTRACK** | Real-time server monitoring system for tracking performance, detecting faults, and supporting IT infrastructure. | `System Monitoring` `Infrastructure` |
-| **AI Inventory Management** | Academic research applying Artificial Intelligence and programming for stock control and decision-making in small businesses. | `Python` `AI` `Data Analysis` |
-
+| **FiraBot & Web Admin Panel** | Virtual assistant via WhatsApp integrated with a web management panel for autonomous document, notice, and system management at IFMA[cite: 2]. | `TypeScript` `Node.js` `React/Vite` `Baileys API` `SQLite/MySQL` `UX/UI`[cite: 2] |
+| **SYSTRACK** | Real-time server monitoring system for tracking performance, detecting faults, and supporting IT infrastructure[cite: 1]. | `System Monitoring` `Infrastructure`[cite: 1] |
+| **AI Inventory Management** | Academic research applying Artificial Intelligence and programming for stock control and decision-making in small businesses[cite: 1]. | `Python` `AI` `Data Analysis`[cite: 1] |
 ---
 
 ### 🛠️ Technical Stack & Skills
