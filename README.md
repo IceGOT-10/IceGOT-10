@@ -12,10 +12,8 @@ Sou estudante de Engenharia da Computação no Instituto Federal do Maranhão (I
 
 - Formação: Engenharia da Computação @ IFMA (2023 - 2027/2028)
 - Destaques Profissionais e Acadêmicos:
-  - Classificado em 61º no seletivo de estágio em TI do TCE-MA (2026).
   - Líder da Comissão de Apoio e Logística e palestrante no CONECT! I Congresso de Engenharia da Computação (IFMA).
   - Expositor no V SNEPT (SETEC/MEC em Brasília/DF) apresentando pesquisa sobre gestão de estoque baseada em IA.
-- Criador de Conteúdo: Mantenho o canal @dark_icegot no YouTube Shorts e TikTok, focado em mistérios, história e fenômenos cósmicos.
 - Como me encontrar: luanfonsecarocha7@gmail.com
 
 ---
